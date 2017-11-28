@@ -1,5 +1,30 @@
 # slackYY
 
+#Added test cases
+
+##The following scenarios have been implemented :
+
+ 1. Sign Up
+ 2. Sign Up with Password Mismatch.
+ 3. Sign In
+ 4. Add New Channel
+ 5. Send Message
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Yet another slack like application. Built
 using [Sails](http://sailsjs.org) framework for Node.js.
 
